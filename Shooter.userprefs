@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.js">
+    <Files>
+      <File FileName="Assets\Scripts\GUIManager.js" Line="132" Column="38" />
+      <File FileName="Assets\Scripts\GameManager.js" Line="35" Column="21" />
+      <File FileName="Assets\Scripts\PlayerShoot.js" Line="94" Column="2" />
+      <File FileName="Assets\Scripts\PowerupScript.js" Line="25" Column="35" />
+      <File FileName="Assets\Scripts\IntroCameraScript.js" Line="37" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.js" selected="True" />
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
